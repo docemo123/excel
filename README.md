@@ -38,12 +38,12 @@ Lowest Margin Product: Mouse have the thinnest margins (4.83%)
 Mouse has the lowest units Sold with 5.13% 
 While Tablet has 11.66% total units sold for the period of 12 months.
 Top Performer: Esoesa Ighadosa generated the highest total sales (14.43% of the total sales)
-CHALLENGES
+##CHALLENGES
 Data cleaning required correcting errors, handling missing values, and removing duplicates.
 Designing a clear layout without overwhelming users took careful planning.
 Performance issues emerged with larger datasets, requiring formula and range optimization.
 Ensuring accurate, consistent calculations across multiple filters needed thorough testing.
-RECOMMENDATIONS
+##RECOMMENDATIONS
 Allocate more sales resources to the West region where ROI is highest
 Conduct market research to understand lower performance in North region
 Create region-specific promotions for underperforming products
@@ -54,7 +54,7 @@ Develop different approaches for each region's customer base
 Create marketing campaigns around high-margin items
 Develop different approaches for each region's customer base
 Use historical data to predict seasonal demand
-CONCLUSION
+##CONCLUSION
 This project successfully demonstrated how Microsoft Excel can be used to transform raw sales data into a powerful, interactive dashboard for analyzing trends and profitability. 
 The dashboard provided clear insights into sales performance, product and regional trends, and financial metrics that support strategic business decisions.
 
