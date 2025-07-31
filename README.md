@@ -10,7 +10,6 @@
 #####Evaluate profitability through key financial metrics.
 #####Enhance decision-making through dynamic filtering and data visualization
 ##Statement of the Problem
-	
 #####In today’s competitive business environment, organizations generate large volumes of sales data daily, yet many still struggle to extract meaningful insights that drive strategic decisions. 
 #####Many small and medium-sized businesses rely heavily on Microsoft Excel for data management, yet few leverage its full potential to build dynamic dashboards that offer real-time analysis. 
 #####This project addresses the need for a powerful, user-friendly Excel dashboard that enables users to analyze sales trends and profitability. 
@@ -31,7 +30,7 @@ A consistent color scheme enhances readability, while a summary table at the bot
 ## ANALYSIS AND INSIGHTS
 Top Performing Region: West region generated the highest total sales revenue (approximately 27.45%)
 Lowest Performing Region: North region had the lowest sales (approximately 22.16%)
--Regional Profit Margins: West region shows the highest average profit margin at 25.63%, while North has the lowest at 24.14%
+Regional Profit Margins: West region shows the highest average profit margin at 25.63%, while North has the lowest at 24.14%
 Top Selling Product: TVs account for 36.09% of total revenue despite representing only 9.32% of units sold
 Highest Margin Product: USB Cords show the highest average profit margin (13.45%%)
 Lowest Margin Product: Mouse have the thinnest margins (4.83%)
