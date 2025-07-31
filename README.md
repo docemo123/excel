@@ -4,15 +4,16 @@
 ##### This project focuses on developing a comprehensive and interactive Excel dashboard designed to analyze sales trends and profitability metrics. 
 ##### The dashboard serves as a visual reporting tool that helps stakeholders easily interpret complex data, identify trends, and make informed business decisions. 
 ## OBJECTIVES
-	Design an interactive and visually appealing Excel dashboard.
-	Analyze monthly and quarterly sales trends.
-	Identify top-performing products, regions, and salespersons.
-	Evaluate profitability through key financial metrics.
-	Enhance decision-making through dynamic filtering and data visualization
-Statement of the Problem
-	In today’s competitive business environment, organizations generate large volumes of sales data daily, yet many still struggle to extract meaningful insights that drive strategic decisions. 
-	Many small and medium-sized businesses rely heavily on Microsoft Excel for data management, yet few leverage its full potential to build dynamic dashboards that offer real-time analysis. 
-	This project addresses the need for a powerful, user-friendly Excel dashboard that enables users to analyze sales trends and profitability. 
+#####Design an interactive and visually appealing Excel dashboard.
+#####Analyze monthly and quarterly sales trends.
+#####Identify top-performing products, regions, and salespersons.
+#####Evaluate profitability through key financial metrics.
+#####Enhance decision-making through dynamic filtering and data visualization
+##Statement of the Problem
+	
+#####In today’s competitive business environment, organizations generate large volumes of sales data daily, yet many still struggle to extract meaningful insights that drive strategic decisions. 
+#####Many small and medium-sized businesses rely heavily on Microsoft Excel for data management, yet few leverage its full potential to build dynamic dashboards that offer real-time analysis. 
+#####This project addresses the need for a powerful, user-friendly Excel dashboard that enables users to analyze sales trends and profitability. 
 ## TOOLS AND TECHNOLOGIES
 	 This project was developed using Microsoft Excel. Core tools included Pivot Tables and Charts for dynamic summarization and visualization of data. Excel formulas like SUM, SUMIFS, AVERAGE and AVERAGEIF, were used to perform calculations and data lookups. 
 	Interactive elements like Slicers and Timelines allowed users to filter the data by date, region, or product category. 
